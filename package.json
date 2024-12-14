@@ -1,0 +1,21 @@
+{
+  "name": "circle-packing-generator",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.8",
+    "@types/p5": "^1.7.6",
+    "typescript": "^5.3.3",
+    "@types/node": "^20.10.5",
+    "terser": "^5.26.0"
+  },
+  "dependencies": {
+    "p5": "^1.9.0"
+  }
+}

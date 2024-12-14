@@ -1,0 +1,6 @@
+export const CANVAS_CONFIG = {
+  MAX_WIDTH: 800,
+  MAX_HEIGHT: 600,
+  ASPECT_RATIO: 0.75,
+  BACKGROUND_COLOR: 255
+} as const;
